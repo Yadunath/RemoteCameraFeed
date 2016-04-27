@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#F2F2F2"
+    android:orientation="vertical"
+    >
+
+
+    <ListView
+        android:id="@+id/lv_list"
+        android:layout_margin="20sp"
+        android:background="#FFFFFF"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Pair new Device"
+        android:id="@+id/button3"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="10dp"
+         />
+
+</RelativeLayout>

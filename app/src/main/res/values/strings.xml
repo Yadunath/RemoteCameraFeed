@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BluetoothCamera</string>
+    <string name="button_client">RECEIVING END</string>
+    <string name="button_server">TRANSMITTING SIDE</string>
+    <string name="bt_mes_on">start Broadcast</string>
+    <string name="bt_mes_off">stop Broadcast</string>
+    <string name="devicelist_scan">Scan Device</string>
+</resources>
